@@ -1,10 +1,10 @@
 This is a website that includes CRUD funtions.
 
 Technologies Used
-HTML5: For structuring the content.
-CSS3: For styling the content.
+HTML: For structuring the content.
+CSS: For styling the content.
 JavaScript: For adding interactivity.
-Bootstrap 5: For responsive design and pre-built components.
+Bootstrap : For responsive design and pre-built components.
 
 Features
 Create: Write new blog posts with ease.
